@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shipping & Logistics</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header><h1>Shipping & Logistics</h1></header>
+  <main>
+    <h2>From Yogyakarta to the World</h2>
+    <p>Motorcycles are sourced directly from Yogyakarta, Indonesia.</p>
+    <p>They are shipped via Singapore, ensuring efficient logistics and reliable delivery to your destination country.</p>
+    <img src="assets/images/shipping/route_placeholder.jpg" alt="Shipping Route" width="400">
+  </main>
+  <footer><p>&copy; 2026 Indonesian Motorcycle Exports</p></footer>
+</body>
+</html>
