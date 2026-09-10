@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Honda Motorcycles</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header><h1>Honda Motorcycles</h1></header>
+  <nav>
+    <a href="index.html">Home</a> | <a href="yamaha.html">Yamaha</a> | <a href="suzuki.html">Suzuki</a> | <a href="kawasaki.html">Kawasaki</a>
+  </nav>
+  <main>
+    <h2>Popular Models</h2>
+    <div>
+      <h3>Honda CB150R</h3>
+      <img src="assets/images/honda/cb150r_placeholder.jpg" alt="Honda CB150R" width="250">
+      <p>Sporty design, reliable performance.</p>
+    </div>
+    <div>
+      <h3>Honda Beat</h3>
+      <img src="assets/images/honda/beat_placeholder.jpg" alt="Honda Beat" width="250">
+      <p>Compact scooter, perfect for city rides.</p>
+    </div>
+    <div>
+      <h3>Honda Vario</h3>
+      <img src="assets/images/honda/vario_placeholder.jpg" alt="Honda Vario" width="250">
+      <p>Stylish scooter with modern features.</p>
+    </div>
+  </main>
+  <footer><p>&copy; 2026 Indonesian Motorcycle Exports</p></footer>
+</body>
+</html>
