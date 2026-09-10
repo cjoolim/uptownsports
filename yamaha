@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Yamaha Motorcycles</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header><h1>Yamaha Motorcycles</h1></header>
+  <main>
+    <h2>Popular Models</h2>
+    <div>
+      <h3>Yamaha R15</h3>
+      <img src="assets/images/yamaha/r15_placeholder.jpg" alt="Yamaha R15" width="250">
+      <p>Sport bike with advanced features.</p>
+    </div>
+    <div>
+      <h3>Yamaha NMAX</h3>
+      <img src="assets/images/yamaha/nmax_placeholder.jpg" alt="Yamaha NMAX" width="250">
+      <p>Comfortable scooter for urban commuting.</p>
+    </div>
+  </main>
+  <footer><p>&copy; 2026 Indonesian Motorcycle Exports</p></footer>
+</body>
+</html>
