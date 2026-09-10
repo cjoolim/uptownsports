@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Indonesian Motorcycle Exports</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Indonesian Motorcycle Exports</h1>
+    <p>Supplying Honda, Yamaha, Suzuki, Kawasaki worldwide</p>
+  </header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="honda.html">Honda</a>
+    <a href="yamaha.html">Yamaha</a>
+    <a href="suzuki.html">Suzuki</a>
+    <a href="kawasaki.html">Kawasaki</a>
+    <a href="shipping.html">Shipping</a>
+    <a href="markets.html">Markets</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+  <main>
+    <h2>Authentic Indonesian Motorcycles</h2>
+    <p>From Yogyakarta, Indonesia → via Singapore → to your country</p>
+    <img src="assets/images/honda/placeholder.jpg" alt="Motorcycle placeholder" width="300">
+  </main>
+  <footer>
+    <p>&copy; 2026 Indonesian Motorcycle Exports</p>
+  </footer>
+</body>
+</html>
