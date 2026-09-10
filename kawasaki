@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kawasaki Motorcycles</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header><h1>Kawasaki Motorcycles</h1></header>
+  <main>
+    <h2>Popular Models</h2>
+    <div>
+      <h3>Kawasaki Ninja 250</h3>
+      <img src="assets/images/kawasaki/ninja250_placeholder.jpg" alt="Kawasaki Ninja 250" width="250">
+      <p>Iconic sport motorcycle.</p>
+    </div>
+    <div>
+      <h3>Kawasaki KLX</h3>
+      <img src="assets/images/kawasaki/klx_placeholder.jpg" alt="Kawasaki KLX" width="250">
+      <p>Durable off-road motorcycle.</p>
+    </div>
+  </main>
+  <footer><p>&copy; 2026 Indonesian Motorcycle Exports</p></footer>
+</body>
+</html>
